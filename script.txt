@@ -1,0 +1,8 @@
+git add .
+git commit -m "你的提交说明"
+git push（ -u origin 分支名）
+====================
+git stash
+git pull
+git stash pop
+
